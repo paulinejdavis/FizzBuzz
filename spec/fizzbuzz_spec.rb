@@ -1,5 +1,5 @@
-# require ./lib/'fizzbuzz'
-require 'fizzbuzz'
+require './lib/fizzbuzz'
+# require 'fizzbuzz'
 
 describe 'fizzbuzz' do
     it  'returns "fizz" when passed 3' do
